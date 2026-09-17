@@ -1,0 +1,12 @@
+<map id="Blinky" name="Blinky">
+<area shape="rect" id="Node000001" title="A simple LED blinker." alt="" coords="93,1093,233,1312"/>
+<area shape="rect" id="Node000002" href="C:/Users/thomas.sterren.VS-W11521/rse-xf-release/03-release/work/src/xf/doxygen/xf.tag$class_x_f_behavior.html" title=" " alt="" coords="83,763,243,1045"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,1060,165,1094,160,1094,160,1060"/>
+<area shape="rect" id="Node000003" href="C:/Users/thomas.sterren.VS-W11521/rse-xf-release/03-release/work/src/xf/doxygen/xf.tag$classinterface_1_1_x_f_behavior.html" title=" " alt="" coords="5,5,165,203"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="73,218,63,320,59,441,63,571,70,635,80,698,98,762,93,764,75,699,64,636,58,571,54,441,58,320,67,217"/>
+<area shape="rect" id="Node000005" href="C:/Users/thomas.sterren.VS-W11521/rse-xf-release/03-release/work/src/xf/doxygen/xf.tag$class_x_f_event.html" title=" " alt="" coords="89,267,237,699"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="108,202,118,250,113,251,103,203"/>
+<area shape="rect" id="Node000004" href="C:/Users/thomas.sterren.VS-W11521/rse-xf-release/03-release/work/src/xf/doxygen/xf.tag$classinterface_1_1_x_f_dispatcher.html" title=" " alt="" coords="261,352,408,613"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="311,614,293,677,269,740,253,772,249,770,264,738,288,675,306,612"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="165,698,165,746,160,746,160,698"/>
+</map>

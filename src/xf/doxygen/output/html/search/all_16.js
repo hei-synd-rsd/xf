@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['xf_0',['XF',['../class_x_f.html',1,'']]],
+  ['xf_20class_20diagram_1',['XF Class Diagram',['../index.html#sec_xf_cmd',1,'']]],
+  ['xf_20component_20diagram_2',['XF Component Diagram',['../index.html#sec_xf_comp',1,'']]],
+  ['xf_20core_20classes_3',['XF Core Classes',['../group__xf__core.html',1,'']]],
+  ['xf_20releases_4',['XF Releases',['../index.html#sec_xf_releases',1,'']]],
+  ['xf_20version_3a_201_200_200_202021_2007_5',['Simplified XF Version: 1.0.0 (2021-07)',['../index.html#xf_v_1_0_0',1,'']]],
+  ['xf_20version_3a_201_201_200_202022_2009_6',['Simplified XF Version: 1.1.0 (2022-09)',['../index.html#xf_v_1_1_0',1,'']]],
+  ['xf_20version_3a_202_200_200_202024_2009_7',['XF Version: 2.0.0 (2024-09)',['../index.html#xf_v_2_0_0',1,'']]],
+  ['xf_20version_3a_202_200_201_202025_2009_8',['XF Version: 2.0.1 (2025-09)',['../index.html#xf_v_2_0_1',1,'']]],
+  ['xfbehavior_9',['XFBehavior',['../classinterface_1_1_x_f_behavior.html',1,'interface::XFBehavior'],['../class_x_f_behavior.html',1,'XFBehavior'],['../class_x_f_behavior.html#ad01f30e5f658a3ade224ea2d85c27f1e',1,'XFBehavior::XFBehavior()']]],
+  ['xfcustomevent_10',['XFCustomEvent',['../class_x_f_custom_event.html',1,'XFCustomEvent'],['../class_x_f_custom_event.html#ad2bda94cc81b26026f4120f44e61113b',1,'XFCustomEvent::XFCustomEvent()']]],
+  ['xfdefaulttransition_11',['XFDefaultTransition',['../class_x_f_default_transition.html',1,'XFDefaultTransition'],['../class_x_f_default_transition.html#a2925af16ba3d1eb20d65138911cf38cc',1,'XFDefaultTransition::XFDefaultTransition()']]],
+  ['xfdispatcher_12',['XFDispatcher',['../classinterface_1_1_x_f_dispatcher.html',1,'interface::XFDispatcher'],['../class_x_f_dispatcher.html',1,'XFDispatcher'],['../class_x_f_dispatcher.html#ad0d4e6d5b3e0bcb2d7fa2a75e01b9df5',1,'XFDispatcher::XFDispatcher()'],['../classinterface_1_1_x_f_dispatcher.html#ad3408783319457342fe3595a87af1c94',1,'interface::XFDispatcher::XFDispatcher()']]],
+  ['xfevent_13',['XFEvent',['../class_x_f_event.html',1,'XFEvent'],['../class_x_f_event.html#a5863db01bfac524adfb473397054eee5',1,'XFEvent::XFEvent()']]],
+  ['xfeventhandle_14',['XFEventHandle',['../class_x_f_behavior.html#a51391da388b4091d87e8ae045141e13c',1,'XFBehavior::XFEventHandle'],['../class_x_f_event.html#a6fcafbfe83ac61ffc14c6359ed4d903a',1,'XFEvent::XFEventHandle'],['../classinterface_1_1_x_f_dispatcher.html#a5763e319226d1c64ea759476e7edb98c',1,'interface::XFDispatcher::XFEventHandle']]],
+  ['xfeventqueue_15',['XFEventQueue',['../classinterface_1_1_x_f_event_queue.html',1,'interface::XFEventQueue'],['../class_x_f_event_queue.html',1,'XFEventQueue']]],
+  ['xfeventstatus_16',['XFEventStatus',['../class_x_f_event_status.html',1,'XFEventStatus'],['../class_x_f_event_status.html#a5d94f7b57653a3a30d0d66a4114e994f',1,'XFEventStatus::XFEventStatus()']]],
+  ['xfeventtype_17',['XFEventType',['../class_x_f_event.html#a944826b381ee833ffddd30342088bf91',1,'XFEvent']]],
+  ['xfinitialevent_18',['XFInitialEvent',['../class_x_f_initial_event.html',1,'']]],
+  ['xfmutex_19',['XFMutex',['../classinterface_1_1_x_f_mutex.html',1,'interface::XFMutex'],['../class_x_f_mutex.html',1,'XFMutex'],['../class_x_f_mutex.html#a89b72b33a9448fa8383860d9d3d64dcf',1,'XFMutex::XFMutex()']]],
+  ['xfthread_20',['XFThread',['../classinterface_1_1_x_f_thread.html',1,'interface::XFThread'],['../class_x_f_thread.html',1,'XFThread'],['../class_x_f_thread.html#a48ff0afabed5b880ec62f7b0349ac6a5',1,'XFThread::XFThread()']]],
+  ['xfthreadentrypointprovider_21',['XFThreadEntryPointProvider',['../classinterface_1_1_x_f_thread_entry_point_provider.html',1,'interface']]],
+  ['xftimeoutmanager_22',['XFTimeoutManager',['../class_x_f_timeout_manager.html',1,'']]]
+];

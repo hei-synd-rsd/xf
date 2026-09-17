@@ -1,0 +1,19 @@
+<map id="TestFactory06" name="TestFactory06">
+<area shape="rect" id="Node000001" title=" " alt="" coords="229,1408,344,1520"/>
+<area shape="rect" id="Node000002" href="$class_default_dispatcher_launcher.html" title=" " alt="" coords="5,1168,192,1237"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,1236,223,1382,232,1393,228,1397,219,1386,118,1239"/>
+<area shape="rect" id="Node000003" href="$class_state_machine06a.html" title="State machine output some text every 500 milliseconds." alt="" coords="217,1115,357,1291"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="289,1290,289,1391,284,1391,284,1290"/>
+<area shape="rect" id="Node000004" href="C:/Users/thomas.sterren.VS-W11521/rse-xf-release/03-release/work/src/xf/doxygen/xf.tag$class_x_f_behavior.html" title=" " alt="" coords="288,763,448,1045"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="328,1060,313,1116,308,1114,323,1059"/>
+<area shape="rect" id="Node000008" href="$class_blinky.html" title="A simple LED blinker." alt="" coords="381,1093,521,1312"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="414,1059,423,1093,418,1094,409,1060"/>
+<area shape="rect" id="Node000005" href="C:/Users/thomas.sterren.VS-W11521/rse-xf-release/03-release/work/src/xf/doxygen/xf.tag$classinterface_1_1_x_f_behavior.html" title=" " alt="" coords="211,5,371,203"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="278,218,269,320,264,441,268,571,275,635,285,698,304,762,299,764,280,699,270,636,263,571,259,441,263,320,273,217"/>
+<area shape="rect" id="Node000007" href="C:/Users/thomas.sterren.VS-W11521/rse-xf-release/03-release/work/src/xf/doxygen/xf.tag$class_x_f_event.html" title=" " alt="" coords="294,267,442,699"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="313,202,323,250,318,251,308,203"/>
+<area shape="rect" id="Node000006" href="C:/Users/thomas.sterren.VS-W11521/rse-xf-release/03-release/work/src/xf/doxygen/xf.tag$classinterface_1_1_x_f_dispatcher.html" title=" " alt="" coords="467,352,613,613"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="516,614,498,677,474,740,459,772,454,770,470,738,493,675,511,612"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="371,698,371,746,365,746,365,698"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="396,1313,352,1385,344,1396,340,1393,347,1383,391,1310"/>
+</map>

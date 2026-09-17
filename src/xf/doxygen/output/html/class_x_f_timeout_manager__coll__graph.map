@@ -1,0 +1,6 @@
+<map id="XFTimeoutManager" name="XFTimeoutManager">
+<area shape="rect" id="Node000001" title="Used to handle QTimers from other threads." alt="" coords="5,119,176,384"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="177,222,195,232,203,251,200,264,193,273,189,269,195,261,197,252,191,235,175,226"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="57,5,124,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,86,93,119,88,119,88,86"/>
+</map>

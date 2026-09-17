@@ -1,0 +1,12 @@
+<map id="XFBehavior" name="XFBehavior">
+<area shape="rect" id="Node000001" title="Base class for state machines, activities, process and data flows." alt="" coords="105,702,287,987"/>
+<area shape="rect" id="Node000002" href="$classinterface_1_1_x_f_behavior.html" title="Interface to receive and process events." alt="" coords="5,5,187,231"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,245,81,333,81,432,87,536,104,638,124,701,119,703,99,640,82,537,75,432,75,333,80,245"/>
+<area shape="rect" id="Node000004" href="$class_x_f_event.html" title="Base class for all types of events." alt="" coords="112,294,280,639"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="127,230,138,269,140,277,135,278,133,270,122,231"/>
+<area shape="rect" id="Node000003" href="$classinterface_1_1_x_f_dispatcher.html" title="Interface for the XF dispatcher providing the event processing loop." alt="" coords="305,334,466,599"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="352,600,318,679,298,715,294,712,314,677,347,598"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="199,638,199,685,193,685,193,638"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="217,85,281,151"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="245,166,225,294,220,293,240,165"/>
+</map>

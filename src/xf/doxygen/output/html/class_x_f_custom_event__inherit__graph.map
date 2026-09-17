@@ -1,0 +1,7 @@
+<map id="XFCustomEvent" name="XFCustomEvent">
+<area shape="rect" id="Node000001" title="Base class for project related events." alt="" coords="5,532,196,637"/>
+<area shape="rect" id="Node000002" href="$class_x_f_event.html" title="Base class for all types of events." alt="" coords="17,119,185,484"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,499,103,532,98,532,98,499"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="69,5,133,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,86,103,119,98,119,98,86"/>
+</map>

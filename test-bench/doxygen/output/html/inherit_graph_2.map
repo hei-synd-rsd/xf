@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="C:/Users/thomas.sterren.VS-W11521/rse-xf-release/03-release/work/src/xf/doxygen/xf.tag$classinterface_1_1_x_f_behavior.html" title=" " alt="" coords="5,208,148,235"/>
+<area shape="rect" id="Node000001" href="C:/Users/thomas.sterren.VS-W11521/rse-xf-release/03-release/work/src/xf/doxygen/xf.tag$class_x_f_behavior.html" title=" " alt="" coords="196,208,281,235"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="163,219,195,219,195,224,163,224"/>
+<area shape="rect" id="Node000002" href="$class_blinky.html" title="A simple LED blinker." alt="" coords="362,5,419,32"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="245,192,273,118,297,78,327,42,343,31,360,23,362,28,345,36,331,46,301,81,278,121,250,194"/>
+<area shape="rect" id="Node000003" href="$class_state_machine01.html" title=" " alt="" coords="333,56,448,83"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="251,193,282,143,303,116,327,93,346,81,349,85,331,97,307,120,286,146,255,195"/>
+<area shape="rect" id="Node000004" href="$class_state_machine02.html" title=" " alt="" coords="333,107,448,133"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="262,195,292,169,328,143,350,131,352,136,330,148,296,173,266,199"/>
+<area shape="rect" id="Node000005" href="$class_state_machine03.html" title=" " alt="" coords="333,157,448,184"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="294,200,347,182,349,187,296,205"/>
+<area shape="rect" id="Node000006" href="$class_state_machine04a.html" title=" " alt="" coords="329,208,451,235"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="297,219,329,219,329,224,297,224"/>
+<area shape="rect" id="Node000007" href="$class_state_machine04b.html" title=" " alt="" coords="329,259,451,285"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="296,238,349,256,347,261,294,243"/>
+<area shape="rect" id="Node000008" href="$class_state_machine05a.html" title=" " alt="" coords="329,309,451,336"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="266,243,296,270,330,295,352,306,350,311,328,300,292,274,262,247"/>
+<area shape="rect" id="Node000009" href="$class_state_machine05b.html" title=" " alt="" coords="329,360,451,387"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="255,247,286,297,307,323,331,346,349,357,346,362,327,350,303,327,282,300,251,250"/>
+<area shape="rect" id="Node000010" href="$class_state_machine06a.html" title="State machine output some text every 500 milliseconds." alt="" coords="329,411,451,437"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="250,249,278,322,301,362,331,397,347,408,344,412,327,401,297,365,273,324,245,251"/>
+</map>

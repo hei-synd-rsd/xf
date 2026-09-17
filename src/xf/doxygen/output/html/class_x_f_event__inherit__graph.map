@@ -1,0 +1,11 @@
+<map id="XFEvent" name="XFEvent">
+<area shape="rect" id="Node000001" title="Base class for all types of events." alt="" coords="221,119,389,484"/>
+<area shape="rect" id="Node000003" href="$class_x_f_custom_event.html" title="Base class for project related events." alt="" coords="5,532,196,637"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,432,140,534,136,531,210,429"/>
+<area shape="rect" id="Node000004" href="$class_x_f_default_transition.html" title="State machine transition without trigger." alt="" coords="221,542,389,627"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="307,499,307,542,302,542,302,499"/>
+<area shape="rect" id="Node000005" href="$class_x_f_initial_event.html" title="Initial event to start a behavior." alt="" coords="413,542,581,627"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="399,436,471,541,466,544,395,439"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="273,5,337,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="307,86,307,119,302,119,302,86"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="XFDispatcher" name="XFDispatcher">
+<area shape="rect" id="Node000001" title="A dispatcher implementation which may be executed using an internal thread." alt="" coords="354,567,485,812"/>
+<area shape="rect" id="Node000002" href="$classinterface_1_1_x_f_thread_entry_point_provider.html" title="Interface to be implemented by the class providing the thread entry method." alt="" coords="5,321,228,421"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,430,243,502,356,620,352,623,239,506,170,434"/>
+<area shape="rect" id="Node000003" href="$classinterface_1_1_x_f_dispatcher.html" title="Interface for the XF dispatcher providing the event processing loop." alt="" coords="252,239,413,504"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="375,517,389,567,384,568,370,519"/>
+<area shape="rect" id="Node000004" href="$classinterface_1_1_x_f_thread.html" title="Interface for a Thread." alt="" coords="438,269,574,474"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="481,475,460,552,454,550,476,473"/>
+<area shape="rect" id="Node000005" href="$class_x_f_event_queue.html" title="Default Qt implementation for the XFEventQueue interface." alt="" coords="599,249,739,494"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="601,488,588,506,498,611,494,608,584,502,597,485"/>
+<area shape="rect" id="Node000006" href="$classinterface_1_1_x_f_event_queue.html" title="Interface to be implemented by the event queue." alt="" coords="584,5,753,191"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="671,206,671,249,666,249,666,206"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="XFDispatcher" name="XFDispatcher">
+<area shape="rect" id="Node000001" title="A dispatcher implementation which may be executed using an internal thread." alt="" coords="159,319,290,604"/>
+<area shape="rect" id="Node000002" href="$classinterface_1_1_x_f_thread_entry_point_provider.html" title="Interface to be implemented by the class providing the thread entry method." alt="" coords="5,88,228,188"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,201,180,318,175,320,135,203"/>
+<area shape="rect" id="Node000003" href="$classinterface_1_1_x_f_dispatcher.html" title="Interface for the XF dispatcher providing the event processing loop." alt="" coords="252,5,413,271"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="286,286,275,320,270,318,281,284"/>
+</map>

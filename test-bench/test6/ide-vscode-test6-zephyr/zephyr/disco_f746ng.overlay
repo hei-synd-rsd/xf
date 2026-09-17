@@ -1,0 +1,33 @@
+/ {
+    
+    leds {
+        compatible = "gpio-leds";
+
+        ext_led0: ext_led0 {
+            gpios = <&gpioa 15 GPIO_ACTIVE_HIGH>;
+            label = "LD0";
+        };
+
+        ext_led1: ext_led1 {
+            gpios = <&gpioh 6 GPIO_ACTIVE_HIGH>;
+            label = "LD1";
+        };
+
+        ext_led2: ext_led2 {
+            gpios = <&gpioa 8 GPIO_ACTIVE_HIGH>;
+            label = "LD2";
+        };
+
+        ext_led3: ext_led3 {
+            gpios = <&gpiob 4 GPIO_ACTIVE_HIGH>;
+            label = "LD3";
+        };
+    };
+
+    aliases {
+        ext-led0 = &ext_led0;
+        ext-led1 = &ext_led1;
+        ext-led2 = &ext_led2;
+        ext-led3 = &ext_led3;
+    };
+};
